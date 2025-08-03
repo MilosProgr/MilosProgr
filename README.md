@@ -25,5 +25,4 @@ Enjoy discovering how things work, both in code and in life
 
 📫 How to reach me:
 Email: petkovicam@gmail.com
-LinkedIn: LinkedIn Profile
 Instagram: @miloscpetkovich
