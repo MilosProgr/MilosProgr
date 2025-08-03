@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 About Me
+I'm Milos Petkovic, a passionate software engineering bachelor from Novi Sad. I thrive on new challenges and enjoy learning by experimenting with different technologies. I love exploring both the digital and physical world — whether it's solving a coding problem, drumming to a groove, or taking long walks to clear my head.
 
-<!--
-**MilosProgr/MilosProgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Studies
+🔭 Bachelor of Applied Software Engineering at the University Singidunum, Center Novi Sad, University of Belgrade
+📚 Medical High school background in farmacy ,farmacy technician
+🖥️ Self-learning with a focus to become a full-stack web developer
+🌱 Exploring artificial intelligence and integrating AI APIs into real-world applications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages and Tools I Use
+Languages:
+C • C# • Java • JavaScript • Python 
+
+Web Development:
+HTML5 • CSS3 • JavaScript • Node.js • Angular • React 
+
+Frameworks & IDEs:
+Eclipse • Visual Studio • Visual Studio Code • Docker
+
+🥁 Hobbies
+Drumming (been hitting the rhythm since I was a kid!)
+Long walks — a time for reflection and new ideas
+Enjoy discovering how things work, both in code and in life
+
+📫 How to reach me:
+Email: petkovicam@gmail.com
+LinkedIn: LinkedIn Profile
+Instagram: @miloscpetkovich
