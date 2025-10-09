@@ -11,7 +11,7 @@ My Studies
 
 💻 Languages and Tools I Use
 Languages:
-C • C# • Java • JavaScript • Python 
+Typescript • C# • Java • JavaScript • Python 
 
 Web Development:
 HTML5 • CSS3 • JavaScript • Node.js • Angular • React 
