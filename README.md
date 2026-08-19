@@ -1,29 +1,134 @@
-👋 About Me
+# Hello, World! 👋
 
-I'm Miloš Petković, a passionate software engineering bachelor from Novi Sad. I thrive on new challenges and enjoy learning by experimenting with different technologies. I love exploring both the digital and physical world — whether it's solving a coding problem, drumming to a groove, or taking long walks to clear my head.
+I'm **Miloš Petković**, a **Software Engineering graduate from Novi Sad, Serbia** 🇷🇸.
 
-My Studies
-🔭 Bachelor of Applied Software Engineering at the University Singidunum, Center Novi Sad, University of Belgrade
-📚 Medical High school background in farmacy ,farmacy technician
-🖥️ Self-learning with a focus to become a full-stack web developer
-🌱 Exploring artificial intelligence and integrating AI APIs into real-world applications
+I'm passionate about building software and continuously learning new technologies. My main interests are **backend development, full-stack applications, cloud technologies, DevOps, and AI**.
 
+I enjoy turning ideas into working applications and learning how software works from development all the way to deployment.
 
-💻 Languages and Tools I Use
-Languages:
-Typescript • C# • Java • JavaScript • Python 
+---
 
-Web Development:
-HTML5 • CSS3 • JavaScript • Node.js • Angular • React 
+## 🎓 About Me
 
-Frameworks & IDEs:
-Eclipse • Visual Studio • Visual Studio Code • Docker
+* 🎓 BSc in **Software Engineering** — Singidunum University
+* 💻 Focused on **Backend & Full-Stack Development**
+* ☁️ Exploring **Cloud & DevOps**
+* 🐳 Working with **Docker & CI/CD**
+* 🔐 Interested in **security, authentication and distributed systems**
+* 🤖 Exploring **AI and AI API integration**
+* 🥁 Drummer since I was a kid
 
-🥁 Hobbies
-Drumming (been hitting the rhythm since I was a kid!)
-Long walks — a time for reflection and new ideas
-Enjoy discovering how things work, both in code and in life
+---
 
-📫 How to reach me:
-Email: petkovicam@gmail.com
-Instagram: @milosh.petkovitsh
+## 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GHCR-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🔧 Building full-stack web applications
+* 🐳 Containerizing applications with Docker
+* ⚙️ Building CI/CD pipelines with GitHub Actions
+* ☁️ Deploying applications to Azure
+* 🔐 Implementing authentication and authorization
+* 💬 Exploring real-time communication with WebSockets
+* 🤖 Learning how to integrate AI into applications
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mind-Blowing-Mornings&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mind-Blowing-Mornings&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:petkovicam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/milosh.petkovitsh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🥁 Fun fact
+
+I've been playing drums for years — when I'm not coding, I'm probably making some noise. 😄
+
+**Thanks for visiting my profile! 🚀**
