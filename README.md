@@ -105,11 +105,11 @@ I enjoy turning ideas into working applications and learning how software works 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mind-Blowing-Mornings&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MilosProgr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mind-Blowing-Mornings&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosProgr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
