@@ -4,6 +4,12 @@ I'm **Miloš Petković**, a **Software Engineering graduate from Novi Sad, Serbi
 
 I'm passionate about building software and continuously learning new technologies. My main interests are **backend development, full-stack applications, cloud technologies, DevOps, and AI**.
 
+### 💼 Working at Kuehne+Nagel
+
+<a href="https://home.kuehne-nagel.com/">
+  <img src="https://companieslogo.com/img/orig/KNIN.SW-8785cbf6.png?t=1724404808" alt="Kuehne+Nagel" width="120"/>
+</a>
+
 I enjoy turning ideas into working applications and learning how software works from development all the way to deployment.
 
 ---
